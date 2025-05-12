@@ -1,4 +1,4 @@
- FTTransformer for Event-Free Survival Prediction in HSCT Patients
+# FTTransformer(FEATURE TOKENIZER) for Event-Free Survival Prediction in HSCT Patients
 
 This project applies the **FTTransformer** model to predict **event-free survival** in patients undergoing **allogeneic Hematopoietic Stem Cell Transplantation (HSCT)**, using data from the **CIBMTR** dataset. It aims to produce accurate, fair, and interpretable predictions across different racial and demographic groups.
 
